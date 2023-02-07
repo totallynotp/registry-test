@@ -1,5 +1,5 @@
 # This is a test.
 
-registry = "ghrc.io"
+registry = "ghcr.io"
 
 # GH rocks
