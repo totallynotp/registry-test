@@ -1,3 +1,3 @@
 # registry-test
 
-Test the registry.
+Test the registry access.
